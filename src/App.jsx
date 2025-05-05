@@ -1,10 +1,10 @@
 import React from 'react';
-import Navbar from './componets/navbar/Navbar';
-import Footer from './componets/footer/Footer'; 
-import Hero from './componets/hero/Hero';
-import Portfolio from './componets/portfolio/Portfolio';
-import About from './componets/about/About';
-import Contact from './componets/contact/Contact';
+import Navbar from './components/navbar/Navbar';
+import Footer from './components/footer/Footer'; 
+import Hero from './components/hero/Hero';
+import Portfolio from './components/portfolio/Portfolio';
+import About from './components/about/About';
+import Contact from './components/contact/Contact';
 import { Route, Routes } from 'react-router-dom';
 
 export default function App() {
